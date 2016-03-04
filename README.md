@@ -1,4 +1,4 @@
 # learngit
-我的仓库
-duanxingang
-I love you yes or no ?
+   我的仓库 
+   duanxingang
+welcome to my repository !
